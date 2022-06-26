@@ -1,9 +1,9 @@
 ### Olá, mundo! 👋
 
-- 🔭 Atualmente trabalho na area logistica. 
-- 🧐 Novo nesse mundo de programaçao. 
-- 🌱 Estudando JS, HTML e CSS.
-- 📫 Contate-me no email: joaovictor.jvrf@hotmail.com
+- Atualmente trabalho na area logistica. 
+- Novo nesse mundo de programaçao. 
+- Estudando JS, HTML e CSS.
+- Contate-me no email: joaovictor.jvrf@hotmail.com
 
 <div align="center">
   <a href="https://github.com/JoaorfVictor">
